@@ -1,0 +1,20 @@
+{
+  "name": "requirejs_bug",
+  "version": "0.0.0",
+  "description": "requirejs bug example",
+  "dependencies": {
+    "grunt": "~0.3.17",
+    "grunt-jasmine-node": "~0.0.6",
+    "jasmine-node": "~1.2.3",
+    "grunt-contrib": "~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt tests"
+  },
+  "repository": "",
+  "keywords": [
+  ],
+  "author": "Omar Gonzalez",
+  "license": "Apache 2.0"
+}
