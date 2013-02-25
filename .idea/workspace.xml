@@ -90,10 +90,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestFile_spec.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TestFile_spec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/differentPackage/anotherPackage/TestFile_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="3" selection-start="109" selection-end="109" vertical-scroll-proportion="0.07970112">
+            <state line="4" column="3" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="placeholder" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/differentPackage/anotherPackage/deeperPackage/placeholder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -199,6 +208,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="anotherPackage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="require_bug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="require_bug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="differentPackage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anotherPackage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deeperPackage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -491,7 +526,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/differentPackage/anotherPackage/TestFile_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="109" selection-end="109" vertical-scroll-proportion="0.07970112">
+        <state line="4" column="3" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/differentPackage/anotherPackage/deeperPackage/placeholder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
